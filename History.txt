@@ -1,0 +1,251 @@
+    2  node -v
+    3  chrome -v
+    4  git -v
+    5  node .
+    6  node -.
+    7  node
+    8  node .
+    9  vs code -
+   10  vs code -.
+   11  vs code .
+   12  node -
+   13  git clone https://github.com/8907296093089/Hello-.World
+   14  git clone https://github.com/8907296093089/Hello-.World.git
+   15  git clone https://github.com/8907296093089/Hello-.World.git
+   16  ls
+   17  cd hello world
+   18  ls
+   19  mkdir practice
+   20  mkdir hello world
+   21  cd practice
+   22  mkdir hello
+   23  cd practice
+   24  cd practice
+   25  ls
+   26  echo $null >"practice.txt"
+   27  echo Moses >"practice.txt"
+   28  ls
+   29  git pull origin main
+   30  git clone https://github.com/8907296093089/task-1-prac.git
+   31  cd task-1-prac
+   32  code -
+   33  cd task-1-prac
+   34  cd desktop
+   35  cd task-1-prac
+   36  git pull origin main
+   37  code .
+   38  echo
+   39  pwd
+   40  ls
+   41  cd documents
+   42  cd ..
+   43  cd task-1-prac
+   44  echo "The shell is my translator to the OS"
+   45  pwd
+   46  echo "The shell is my translator to the OS"
+   47  pwd
+   48  ls
+   49  cd documents
+   50  cd ..
+   51  cd task-1-prac
+   52  ls
+   53  cd nano shell-intro.sh
+   54  nano shell-intro.sh
+   55  cd nano shell-intro1.sh
+   56  echo "The shell is my translator to the OS"
+   57  pwd
+   58  cd task-1-prac
+   59  cd ..
+   60  cd task-1-prac
+   61  cd desktop
+   62  cd task-1-prac
+   63  git pull origin main
+   64  cd desktop
+   65  clear
+   66  cd desktop
+   67  cd desktop
+   68  echo "The shell is my translator to the OS"
+   69  pwd
+   70  ls
+   71  cd nano shell-intro
+   72  code
+   73  code .
+   74  echo "The shell is my translator to the OS"
+   75  pwd
+   76  ls
+   77  cd documents
+   78  cd ..
+   79  nano shell_intro.sh
+   80  ls
+   81  cd task-1-prac
+   82  ls
+   83  echo "the shell is my translator to the os"
+   84  pwd
+   85  ls
+   86  cd ..
+   87  cd ..
+   88  ls
+   89  cd Documents
+   90  cd ..
+   91  ls
+   92  cd Desktop
+   93  ls
+   94  cd task-1-prac
+   95  nano shell_intro.sh
+   96  nano shell_intro.sh
+   97  chmod +x shell_intro.sh
+   98  ./shell_intro.sh
+   99    cd reflection.txt
+  100  touch reflection.txt
+  101  echo " It's a program that interprets user commands and executes them, allowing interaction with the system's core functionality,how to open a folder and list what is inside then exit,with terminal it shows the directory and by clicking through the folders it does not show step by step"
+  102  echo " It's a program that interprets user commands and executes them, allowing interaction with the system's core functionality,how to open a folder and list what is inside then exit,with terminal it shows the directory and by clicking through the folders it does not show step by step"
+  103   It's a program that interprets user commands and executes them, allowing interaction with the system's core functionality,how to open a folder and list what is inside then exit,with terminal it shows the directory and by clicking through the folders it does not show step by step
+  104  echo "It's a program that interprets user commands and executes them, allowing interaction with the system's core functionality,how to open a folder and list what is inside then exit,with terminal it shows the directory and by clicking through the folders it does not show step by step"
+  105  git push origin main
+  106  echo "It's a program that interprets user commands and executes them, allowing interaction with the system's core functionality,how to open a folder and list what is inside then exit,with terminal it shows the directory and by clicking through the folders it does not show step by step" > reflection.txt
+  107  history
+  108  '''bash
+  109  ...
+  110  ...bash
+  111  cd task-1-prac
+  112  clear
+  113  cd desktop
+  114  git init
+  115  mkdir hello-world
+  116  cd hello-world
+  117  touch index.js
+  118  '''bash
+  119  clear
+  120  cd task-1-prac
+  121  cd desktop
+  122  cd task-1-prac
+  123  git pull origin main
+  124  code .
+  125  ls
+  126  echo $null >"shell_arch_task.txt"
+  127  echo >"shell_arch_task.txt"
+  128  clear
+  129  git clone https://github.com/8907296093089/Moss.git
+  130  dir
+  131  cd moss
+  132  git remote -v
+  133  git remote add upstream https://github.com/8907296093089/Moss.git
+  134  git remote -v
+  135  git push origin main
+  136  echo "The shell is my translator to the OS"
+  137  cd documents
+  138  nano shell_intro.sh
+  139  chmod +x shell_intro.sh
+  140  ./shell_intro.sh
+  141  cd reflection.txt
+  142  cd ..reflection.txt
+  143  cd "reflection.txt"
+  144  cd .."reflection.txt"
+  145  echo "reflection.txt"
+  146  git push origin main
+  147  git init
+  148  git init master
+  149  clear
+  150  echo "The shell is my translator to the OS"
+  151  nano shell_intro.sh
+  152  ./shell_intro.sh
+  153  mkdir "reflection.txt"
+  154  cd .."reflection.txt"
+  155  cd Document "reflection.txt"
+  156  mkdir reflection.txt
+  157  ls
+  158  console.log("reflection.txt")
+  159  git init
+  160  ls
+  161  touch reflection.txt
+  162  ls
+  163  ls reflection.txt
+  164  cd reflection.txt
+  165  mkdir reflection.txt
+  166  ls
+  167  touch reflection
+  168  touch reflection.txt
+  169  console "reflection"
+  170  touch reflection.txt
+  171  nano reflection.txt
+  172  touch
+  173  touch dee
+  174  touch dee.txt
+  175  echo
+  176  cst
+  177  cat
+  178  code
+  179  echo "Alhamdulillah"
+  180  nano Shell_intro.sh
+  181  git init
+  182  git add
+  183  git commit -m "Alhamdulillah"
+  184  git add
+  185  git add "Alhamdulillah"
+  186  git push
+  187   git remote add <Alhamdulillah>
+  188  echo Alhamdulillah
+  189  git add
+  190  git init
+  191  ls
+  192  git push origin master
+  193   git push origin main
+  194  ls
+  195  pwd
+  196  ./shell_intro.sh
+  197  git push origin master
+  198  code
+  199  pwd
+  200  ls
+  201  cd
+  202  search history
+  203  PING HOST
+  204  cat file
+  205  cat FILE
+  206  HISTORY
+  207  whatis cmd
+  208  git pull origin master
+  209  https://github.com/8907296093089/task-1-prac.git
+  210  https://github.com/londeka-z/task-1-prac.git
+  211  git pull https://github.com/londeka-z/task-1-prac.git
+  212  git clone https://github.com/londeka-z/task-1-prac.git
+  213  '''bash
+  214  git pull https://github.com/londeka-z/task-1-prac.git
+  215  cd task-1-prac
+  216  code .
+  217  git pull origin main
+  218  git remote -v
+  219  cd
+  220  git clone
+  221  git clone https://github.com/8907296093089/task-1-prac.git
+  222  git clone https://github.com/8907296093089/task-1-prac.git
+  223  cd task-1-prac
+  224  code .
+  225  echo "The shell is my translator to the OS"
+  226  touch shell_intro.sh
+  227  nano shell_intro.sh
+  228  chmod +x shell_intro.sh~
+  229  ./shell_intro.sh
+  230  cd ..reflection.txt
+  231  touch reflection.txt
+  232  ls
+  233  echo "to act as a user interface for an operating system, allowing users to interact with the computer by executing commands and managing files, the shell just popped up and hand instructions below, it's easier and trackable" reflection.txt
+  234  git add
+  235  git add .
+  236  echo "to act as a user interface for an operating system, allowing users to interact with the computer by executing commands and managing files, the shell just popped up and hand instructions below, it's easier and trackable"
+  237   echo "to act as a user interface for an operating system, allowing users to interact with the computer by executing commands and managing files, the shell just popped up and hand instructions below, it's easier and trackable"> reflection.txt
+  238  git push
+  239  code
+  240  ls
+  241  mkdir
+  242  cd
+  243  cd Monday
+  244  cd dir
+  245  node -v
+  246  mkdir Monday
+  247  touch Monday
+  248  help
+  249  history
+  250  cd task-1-prac
+  251  code .
+  252  history

@@ -1,0 +1,4 @@
+{
+  "emmet.excludeLanguages": ["xsl", "xslt"],
+  "workbench.colorCustomizations": {}
+}

@@ -1,0 +1,1 @@
+to act as a user interface for an operating system, allowing users to interact with the computer by executing commands and managing files, the shell just popped up and hand instructions below, it's easier and trackable
